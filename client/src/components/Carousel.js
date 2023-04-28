@@ -48,7 +48,7 @@ const Carousel = () => {
             {/*</div>*/}
 
 
-            <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
+            <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel" style={{objectFit:"contain"}}>
 
 
                 <div className="carousel-inner">
@@ -57,7 +57,7 @@ const Carousel = () => {
 
 
                     <div className="carousel-item active">
-                        <img src="https://source.unsplash.com/random/300×300/?pastry" className="d-block w-100" alt="..." style={{"height":"700px","marginTop":"-100px","filter":"brightness(30%)"}}/>
+                        <img src="https://source.unsplash.com/random/300×300/?pastry" className="d-block w-100" alt="..." style={{"height":"500px","filter":"brightness(30%)"}}/>
                         <div className="carousel-caption d-none d-md-block">
                             <div style={{"zIndex":"100"}}>
                                 <form className="d-flex">
@@ -71,7 +71,7 @@ const Carousel = () => {
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900×700/?pizza" className="d-block w-100" alt="..." style={{"height":"700px","marginTop":"-100px","filter":"brightness(30%)"}}/>
+                        <img src="https://source.unsplash.com/random/900×700/?pizza" className="d-block w-100" alt="..." style={{"height":"500px","filter":"brightness(30%)"}}/>
                         <div className="carousel-caption d-none d-md-block">
                             <div style={{"zIndex":"100"}}>
                                 <form className="d-flex">
@@ -85,7 +85,7 @@ const Carousel = () => {
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://source.unsplash.com/random/900×700/?burger" className="d-block w-100" alt="..." style={{"height":"700px","marginTop":"-100px","filter":"brightness(30%)"}}/>
+                        <img src="https://source.unsplash.com/random/900×700/?burger" className="d-block w-100" alt="..." style={{"height":"500px","filter":"brightness(30%)"}}/>
                         <div className="carousel-caption d-none d-md-block">
                             <div style={{"zIndex":"100"}}>
                                 <form className="d-flex">

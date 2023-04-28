@@ -5,7 +5,7 @@ const Card = () => {
     return (
         <div>
             <div className="text-secondary p-5">
-                <div className="card my-5" style={{"width":"18rem","background":"black","color":"white","maxHeight":"360px"}}>
+                <div className="card my-3" style={{"width":"18rem","background":"black","color":"white","maxHeight":"360px"}}>
                     <img src="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/03/19/biriyani.jpg" className="card-img-top" alt="..."/>
                     <div className="card-body">
                         <h5 className="card-title">Card title</h5>

@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Card.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/Carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,8 @@
       <updated>1682536899561</updated>
       <workItem from="1682536900616" duration="11917000" />
       <workItem from="1682549184056" duration="7755000" />
-      <workItem from="1682558251986" duration="3300000" />
+      <workItem from="1682558251986" duration="5279000" />
+      <workItem from="1682641843600" duration="1452000" />
     </task>
     <servers />
   </component>
